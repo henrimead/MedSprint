@@ -3,7 +3,7 @@
   "latestVersion": "1.0",
   "forceUpdate": true,
   "appMessage": "Welcome to MedSprint Version 1.0!",
-  "appMessageIcon: "exclamationmark.triangle.fill",
+  "appMessageIcon": "exclamationmark.triangle.fill",
   "appMessageType": "alert",
   "showMessage": true
 }
