@@ -1,9 +1,9 @@
 {
-  "minVersion": "1.0",
-  "latestVersion": "1.0",
+  "minVersion": "1.1",
+  "latestVersion": "1.1",
   "forceUpdate": true,
   "appMessage": "Welcome to MedSprint Version 1.0!",
   "appMessageIcon": "exclamationmark.triangle.fill",
-  "appMessageType": "alert",
+  "appMessageType": "normal",
   "showMessage": true
 }
