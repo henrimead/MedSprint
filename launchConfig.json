@@ -5,5 +5,5 @@
   "appMessage": "Welcome to MedSprint Version 1.0!",
   "appMessageIcon": "exclamationmark.triangle.fill",
   "appMessageType": "normal",
-  "showMessage": true
+  "showMessage": false
 }
