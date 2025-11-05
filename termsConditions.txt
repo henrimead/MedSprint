@@ -1,1 +1,44 @@
-Terms
+MedSprint Premium – Terms & Conditions
+
+Last updated: November 2025
+
+These Terms & Conditions (“Terms”) govern your use of the MedSprint Premium subscription (“Premium”, “Service”) offered within the MedSprint mobile application (“App”) operated by MedSprint Pty Ltd (“we”, “us”, “our”). By purchasing or using Premium, you agree to these Terms.
+
+1. Subscription Overview
+MedSprint Premium is an auto-renewing subscription that unlocks additional features such as:
+- AI-generated GAMSAT-style questions
+- Advanced review and feedback modes
+- Custom difficulty and question-count options
+- Early access to new study tools and updates
+The availability and pricing of Premium may vary by region and currency.
+
+2. Payment & Renewal
+- Payment will be charged to your Apple ID account at confirmation of purchase.
+- Subscriptions auto-renew unless cancelled at least 24 hours before the end of the current period.
+- Your account will be charged for renewal within 24 hours prior to the end of the current period at the rate shown at purchase.
+- You can manage or cancel your subscription any time in Settings > Apple ID > Subscriptions.
+- Any unused portion of a free trial period will be forfeited once a paid subscription is purchased.
+
+3. Free Trial
+We may offer a free trial period. After it ends, your subscription will automatically convert to a paid plan unless cancelled before the trial expires. Eligibility for free trials is determined at our discretion and may be limited to one per Apple ID.
+
+4. Refunds
+All billing and refund processes are managed by Apple under App Store policy. We cannot issue refunds or access payment details directly.
+For refund requests, please visit: reportaproblem.apple.com
+
+5. Changes to Subscription
+We reserve the right to modify or discontinue Premium features, pricing, or tiers. Any significant changes will be communicated in-app or through the App Store prior to taking effect.
+
+6. User Responsibilities
+You agree not to misuse the Service, attempt to reverse-engineer it, share subscription access, or use automated systems to access Premium features. We may suspend or terminate your access for violations of these Terms or our general App Terms of Use.
+
+7. Data & Privacy
+Use of Premium is subject to our Privacy Policy which explains how your data is handled. By subscribing, you consent to data processing necessary for account validation and feature functionality.
+
+8. Limitation of Liability
+To the fullest extent permitted by law, MedSprint Pty Ltd and its affiliates are not liable for any indirect, incidental, or consequential damages arising from the use or inability to use the Premium Service.
+
+9. Contact
+For questions or support regarding MedSprint Premium, please contact:
+📧 medsprint@proton.me
+
