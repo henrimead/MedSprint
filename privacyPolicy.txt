@@ -1,1 +1,43 @@
-Test
+MedSprint Privacy Policy
+
+Last updated: November 2025
+
+This Privacy Policy explains how MedSprint Pty Ltd (“we”, “us”, “our”) collects, uses, and protects your information when you use the MedSprint app and purchase MedSprint Premium.
+
+1. Information We Collect
+We collect minimal data required to deliver app functionality, including:
+- Device information (e.g. model, OS version) for app performance and crash reporting.
+- Usage data such as question activity, feature engagement, and subscription status.
+- Purchase information (subscription type, renewal dates) from Apple App Store API — no payment details are stored by us.
+
+2. How We Use Your Data
+Your data is used solely to:
+- Provide and personalise study features;
+- Verify Premium subscription status;
+- Improve app quality and user experience;
+- Communicate critical updates or feature changes.
+We do not sell, rent, or share your data with third parties for advertising purposes.
+
+3. Data Storage & Security
+All information is securely stored using Apple-approved frameworks and encrypted connections (HTTPS / App Store Kit).
+No sensitive data is shared outside the Apple ecosystem.
+
+4. Analytics
+Anonymous analytics may be collected to understand app performance and usage trends.
+This data cannot identify individual users.
+
+5. Your Choices
+You can:
+- Disable analytics via device settings (Settings > Privacy > Tracking).
+- Manage or delete app data by uninstalling the app.
+- Manage subscription data in your Apple ID > Subscriptions panel.
+
+6. Children’s Privacy
+MedSprint is intended for users aged 16 and above. We do not knowingly collect personal data from children.
+
+7. Changes to This Policy
+We may update this Policy from time to time. The latest version will always be available in-app before changes take effect.
+
+8. Contact Us
+For any questions about this Privacy Policy, please contact:
+📧 medsprint@proton.me
