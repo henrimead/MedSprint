@@ -1,44 +1,126 @@
-MedSprint Premium – Terms & Conditions
+MedSprint Terms & Conditions (including MedSprint Premium)
 
-Last updated: November 2025
+Effective date: 3 November 2025 (last updated: November 2025)
 
-These Terms & Conditions (“Terms”) govern your use of the MedSprint Premium subscription (“Premium”, “Service”) offered within the MedSprint mobile application (“App”) operated by MedSprint Pty Ltd (“we”, “us”, “our”). By purchasing or using Premium, you agree to these Terms.
+Contact: medsprint@proton.me
 
-1. Subscription Overview
-MedSprint Premium is an auto-renewing subscription that unlocks additional features such as:
-- AI-generated GAMSAT-style questions
-- Advanced review and feedback modes
-- Custom difficulty and question-count options
-- Early access to new study tools and updates
+1. Acceptance of Terms
+To not agree, do not use the Service or purchase Premium.
+
+2. About MedSprint (Educational Use Only)
+MedSprint provides AI-assisted practice questions, study modes, and analytics to help users prepare for exams (including, but not limited to, GAMSAT). MedSprint is not affiliated with, endorsed by, or sponsored by ACER or any exam provider.
+No Medical or Professional Advice. Content is educational only and may be inaccurate or incomplete. MedSprint does not provide medical, legal, or professional advice. Always seek guidance from qualified professionals.
+
+3. Eligibility
+You must be at least 13 years old (or the minimum age required by your local law). If you are under the age of majority in your jurisdiction, you confirm you have parental/guardian consent. You may use the Service only for lawful purposes and in accordance with these Terms.
+
+4. Accounts & Authentication
+MedSprint may operate without user accounts, with features tied to your device or app store identity. If we later introduce accounts, you are responsible for maintaining the confidentiality of your credentials and for all activity under your account.
+
+5. Subscriptions, Premium, Trials & Inâ€‘App Purchases
+5.1 Overview of Premium
+MedSprint Premium is an optional, auto-renewing subscription that unlocks additional features such as (as available from time to time):
+-  AI-generated GAMSAT-style questions and related study content;
+-  advanced review, analytics, and feedback modes;
+-  custom difficulty and question-count options;
+-  early or exclusive access to new study tools, modes, and updates.
 The availability and pricing of Premium may vary by region and currency.
 
-2. Payment & Renewal
-- Payment will be charged to your Apple ID account at confirmation of purchase.
-- Subscriptions auto-renew unless cancelled at least 24 hours before the end of the current period.
-- Your account will be charged for renewal within 24 hours prior to the end of the current period at the rate shown at purchase.
-- You can manage or cancel your subscription any time in Settings > Apple ID > Subscriptions.
-- Any unused portion of a free trial period will be forfeited once a paid subscription is purchased.
+5.2 Stores, Payment & Renewal
+als, and billing are determined by the Store and displayed at purchase.
+-  Payment will be charged to your Apple ID / Store account at confirmation of purchase.
+-  Subscriptions auto-renew unless cancelled at least 24 hours before the end of the current period.
+-  Your account may be charged for renewal within 24 hours prior to the end of the current period at the rate shown at purchase (or as later updated in accordance with Store rules).
+-  You can manage or cancel your subscription at any time via your device's Store subscription settings (e.g., Apple: Settings > Apple ID > Subscriptions). Deleting the app does not cancel a subscription.
 
-3. Free Trial
-We may offer a free trial period. After it ends, your subscription will automatically convert to a paid plan unless cancelled before the trial expires. Eligibility for free trials is determined at our discretion and may be limited to one per Apple ID.
+5.3 Free Trials
+-  We may offer a free trial period for Premium. After it ends, your subscription will automatically convert to a paid plan unless cancelled before the trial expires.
+-  Eligibility for free trials is determined at our discretion and may be limited to one trial per Apple ID / Store account or per user/device, even if you reinstall the app or change accounts.
+-  Any unused portion of a free trial period will be forfeited once a paid subscription is purchased, to the extent permitted by Store policy.
 
-4. Refunds
-All billing and refund processes are managed by Apple under App Store policy. We cannot issue refunds or access payment details directly.
-For refund requests, please visit: reportaproblem.apple.com
+5.4 Refunds
+-  All billing and refund processes for Premium are managed by the Store under its applicable policies. We cannot issue refunds or access your payment details directly.
+-  For refund requests, please contact the Store (e.g., Apple: reportaproblem.apple.com) and follow its instructions.
+-  Nothing in these Terms limits any rights you may have under applicable consumer laws.
 
-5. Changes to Subscription
-We reserve the right to modify or discontinue Premium features, pricing, or tiers. Any significant changes will be communicated in-app or through the App Store prior to taking effect.
+5.5 Feature Tiers, Price & Changes
+-  MedSprint may change the features included in free and paid tiers at any time.
+-  We reserve the right to modify, suspend, or discontinue Premium features, pricing, or tiers in whole or in part. Any significant changes will be communicated in-app and/or via the Store consistent with Store rules.
+-  If required by the Store, you will be notified of price changes and given an opportunity to review them before they take effect. Continued subscription after the effective date constitutes acceptance.
 
-6. User Responsibilities
-You agree not to misuse the Service, attempt to reverse-engineer it, share subscription access, or use automated systems to access Premium features. We may suspend or terminate your access for violations of these Terms or our general App Terms of Use.
+6. Free Mode Quotas & Fair Use
+-  Daily Limits. Free usage may be subject to daily quotas (e.g., number of questions or sessions). Quotas reset based on server-defined logic and/or your device's Store region time; details may vary by platform and are subject to change.
+-  Anti-Circumvention. Attempts to bypass quotas (e.g., manipulating device time, using VPNs or automation tools, reinstalling repeatedly to obtain extra free use) are prohibited and may result in suspension or termination.
+-  Abuse. Excessive usage patterns that degrade Service quality for others may be restricted.
 
-7. Data & Privacy
-Use of Premium is subject to our Privacy Policy which explains how your data is handled. By subscribing, you consent to data processing necessary for account validation and feature functionality.
+7. AI-Generated Content Limitations
+MedSprint uses AI models to generate questions, explanations, and feedback. AI output may be incorrect, misleading, out of date, or inappropriate for your context. Always verify with authoritative sources. You are responsible for how you use AI content.
 
-8. Limitation of Liability
-To the fullest extent permitted by law, MedSprint Pty Ltd and its affiliates are not liable for any indirect, incidental, or consequential damages arising from the use or inability to use the Premium Service.
+8. User Content & Feedback
+edSprint a worldwide, non-exclusive, royalty-free license to use, reproduce, modify, and display your User Content solely to operate and improve the Service.
+Feedback. If you provide suggestions, you grant MedSprint a perpetual, irrevocable, worldwide, royalty-free license to use them without restriction or compensation.
 
-9. Contact
-For questions or support regarding MedSprint Premium, please contact:
-📧 medsprint@proton.me
+9. Acceptable Use
+You must not:
+-  copy, scrape, or bulk-download the Service or its content;
+-  reverse engineer, decompile, or attempt to access source code or model parameters (except as permitted by law);
+-  interfere with the security, integrity, or availability of the Service;
+-  upload unlawful, harmful, or infringing content;
+-  use the Service to cheat, gain unfair advantage, or violate exam rules;
+-  use the Service for medical diagnosis/treatment or emergency guidance;
+-  infringe third-party rights, including exam provider IP or confidential material;
+-  share, resell, or otherwise provide your Premium access or entitlements to others outside your household, or use automated systems (e.g., bots, scripts) to access Premium features.
+
+10. Intellectual Property
+The Service (including text, UI, logos, question banks, generated compilations, and underlying software) is protected by copyright, trademark, and other laws. Except for limited rights granted to you under these Terms, all rights are reserved by MedSprint and its licensors.
+
+11. License to Use
+Subject to these Terms, MedSprint grants you a limited, non-exclusive, non-transferable, revocable license to install and use the app on devices you own or control, solely for personal, non-commercial study.
+
+12. Third-Party Services & Links
+The Service may integrate third-party AI/analytics and link to third-party content. We are not responsible for third-party services or content and they may be subject to their own terms and privacy policies.
+
+13. Privacy
+Our Privacy Policy explains how we collect, use, and share information. By using the Service or subscribing to Premium, you consent to our data practices, including data processing necessary for purchase validation, subscription management, and feature functionality. Where no account exists, some data may be stored locally on device and/or associated with your Store identity for purchases and entitlements.
+
+14. Changes to the Service
+We may modify, suspend, or discontinue features at any time, including free and paid features, to improve quality, comply with law, or address security and operational needs. Where changes materially reduce paid functionality of Premium, we will provide notice consistent with Store policies.
+
+15. Disclaimers
+By law, we disclaim all warranties, express or implied, including accuracy, merchantability, fitness for a particular purpose, non-infringement, and uninterrupted availability.
+Australian Consumer Law (ACL): Nothing in these Terms excludes, restricts, or modifies any consumer guarantees, rights, or remedies under the ACL that cannot be excluded, restricted, or modified.
+
+16. Limitation of Liability
+To the extent permitted by law and subject to the ACL:
+-  MedSprint will not be liable for indirect, incidental, special, consequential, or punitive damages, loss of data, loss of opportunity, or exam outcomes arising from or related to use of the Service (including Premium); and
+-  our aggregate liability for claims arising out of or relating to the Service shall not exceed the greater of AUD 100 or the amount you paid to us for the Service in the 3 months preceding the event giving rise to the claim.
+
+17. Indemnity
+You agree to indemnify and hold MedSprint and its affiliates, officers, employees, and partners harmless from any claims, damages, liabilities, and expenses (including reasonable legal fees) arising from your misuse of the Service (including Premium), your User Content, or your breach of these Terms.
+
+18. Suspension & Termination
+We may suspend or terminate access immediately (with or without notice) if we reasonably believe you breached these Terms, engaged in fraud/abuse (including sharing Premium access or bypassing quotas), or posed a security or legal risk. You may stop using the Service at any time. Subscription cancellations are managed via your Store settings.
+
+19. Updates to Terms
+We may update these Terms from time to time. If changes are material, we will provide reasonable notice (e.g., in-app notice or via the Store). Continued use after the effective date of updated Terms constitutes acceptance.
+
+20. Exams Trademark Notice
+GAMSAT and other exam names are trademarks of their respective owners. Use of such marks on or in connection with the Service is for descriptive purposes only and does not imply affiliation or endorsement.
+
+21. Export Sanctions Compliance
+You must comply with applicable export control and sanctions laws. You may not use the Service if you are located in, or are a resident of, a jurisdiction subject to comprehensive sanctions, or are on a restricted party list.
+
+22. Governing Law & Disputes
+These Terms are governed by the laws of New South Wales, Australia, and the parties submit to the exclusive jurisdiction of the courts of NSW (and any appellate courts). If you are an EU/UK consumer, you may also have mandatory local consumer rights.
+
+23. Notices
+We may provide notices via the app, website, email, or Store messaging. For legal notices to us, use the contact in the header.
+
+24. General
+If any provision is unenforceable, the remainder remains in effect. Our failure to enforce a provision is not a waiver. You may not assign these Terms without our consent; we may assign to an affiliate or in connection with a merger, acquisition, or asset sale.
+
+
+Jurisdiction-Specific Addendum
+United States: Some states do not allow certain disclaimers or limitations; to that extent, they may not apply to you.
+EU/UK: Nothing in these Terms limits your mandatory consumer rights under applicable law. You may access local dispute resolution bodies where available.
 
