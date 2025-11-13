@@ -2,7 +2,7 @@
   "minVersion": "1.0",
   "latestVersion": "1.0",
   "forceUpdate": true,
-  "appMessage": "Welcome to MedSprint, new update with huge improvements on the way!",
+  "appMessage": "Welcome to MedSprint! A new update with huge improvements is on the way!",
   "appMessageIcon": "hand.wave.fill",
   "appMessageType": "normal",
   "showMessage": true
