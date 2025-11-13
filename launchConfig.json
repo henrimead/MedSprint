@@ -5,5 +5,5 @@
   "appMessage": "Welcome to MedSprint! A new update with huge improvements is on the way!",
   "appMessageIcon": "hand.wave.fill",
   "appMessageType": "normal",
-  "showMessage": true
+  "showMessage": false
 }
