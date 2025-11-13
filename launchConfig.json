@@ -1,6 +1,6 @@
 {
-  "minVersion": "1.0",
-  "latestVersion": "1.0",
+  "minVersion": "1.2",
+  "latestVersion": "1.2",
   "forceUpdate": true,
   "appMessage": "Welcome to MedSprint! A new update with huge improvements is on the way!",
   "appMessageIcon": "hand.wave.fill",
