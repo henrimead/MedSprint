@@ -2,8 +2,8 @@
   "minVersion": "1.2",
   "latestVersion": "1.2",
   "forceUpdate": true,
-  "appMessage": "Welcome to MedSprint! A new update with huge improvements is on the way!",
+  "appMessage": "Current issues with Github servers. MedSprint is temporarily unavailble.",
   "appMessageIcon": "hand.wave.fill",
   "appMessageType": "normal",
-  "showMessage": false
+  "showMessage": true
 }
