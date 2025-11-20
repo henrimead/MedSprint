@@ -8,7 +8,7 @@ Contact: medsprint@proton.me
 To not agree, do not use the Service or purchase Premium.
 
 2. About MedSprint (Educational Use Only)
-MedSprint provides AI-assisted practice questions, study modes, and analytics to help users prepare for exams (including, but not limited to, GAMSAT). MedSprint is not affiliated with, endorsed by, or sponsored by ACER or any exam provider.
+MedSprint provides AI-assisted practice questions, study modes, and analytics to help users prepare for exams (including, but not limited to, GAMSAT and MCAT). MedSprint is not affiliated with, endorsed by, or sponsored by ACER or any exam provider.
 No Medical or Professional Advice. Content is educational only and may be inaccurate or incomplete. MedSprint does not provide medical, legal, or professional advice. Always seek guidance from qualified professionals.
 
 3. Eligibility
@@ -17,10 +17,10 @@ You must be at least 13 years old (or the minimum age required by your local law
 4. Accounts & Authentication
 MedSprint may operate without user accounts, with features tied to your device or app store identity. If we later introduce accounts, you are responsible for maintaining the confidentiality of your credentials and for all activity under your account.
 
-5. Subscriptions, Premium, Trials & Inâ€‘App Purchases
+5. Subscriptions, Premium, Trials & In-App Purchases
 5.1 Overview of Premium
 MedSprint Premium is an optional, auto-renewing subscription that unlocks additional features such as (as available from time to time):
--  AI-generated GAMSAT-style questions and related study content;
+-  AI-generated GAMSAT- and MCAT-style questions and related study content;
 -  advanced review, analytics, and feedback modes;
 -  custom difficulty and question-count options;
 -  early or exclusive access to new study tools, modes, and updates.
@@ -105,7 +105,7 @@ We may suspend or terminate access immediately (with or without notice) if we re
 We may update these Terms from time to time. If changes are material, we will provide reasonable notice (e.g., in-app notice or via the Store). Continued use after the effective date of updated Terms constitutes acceptance.
 
 20. Exams Trademark Notice
-GAMSAT and other exam names are trademarks of their respective owners. Use of such marks on or in connection with the Service is for descriptive purposes only and does not imply affiliation or endorsement.
+GAMSAT, MCAT and other exam names are trademarks of their respective owners. Use of such marks on or in connection with the Service is for descriptive purposes only and does not imply affiliation or endorsement.
 
 21. Export Sanctions Compliance
 You must comply with applicable export control and sanctions laws. You may not use the Service if you are located in, or are a resident of, a jurisdiction subject to comprehensive sanctions, or are on a restricted party list.
