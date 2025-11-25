@@ -1,6 +1,6 @@
 {
-  "minVersion": "1.4",
-  "latestVersion": "1.4",
+  "minVersion": "1.5",
+  "latestVersion": "1.5",
   "forceUpdate": true,
   "appMessage": "message",
   "appMessageIcon": "hand.wave.fill",
