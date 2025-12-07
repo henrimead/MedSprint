@@ -2,8 +2,8 @@
   "minVersion": "1.5",
   "latestVersion": "1.5",
   "forceUpdate": true,
-  "appMessage": "MedSprint servers are updating, back online shortly!",
-  "appMessageIcon": "exclamationmark.icloud.fill",
-  "appMessageType": "alert",
+  "appMessage": "Registrations for March 2026 GAMSAT are open.",
+  "appMessageIcon": "megaphone.fill",
+  "appMessageType": "normal",
   "showMessage": true
 }
