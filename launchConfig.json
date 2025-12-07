@@ -2,8 +2,8 @@
   "minVersion": "1.5",
   "latestVersion": "1.5",
   "forceUpdate": true,
-  "appMessage": "message",
-  "appMessageIcon": "hand.wave.fill",
-  "appMessageType": "normal",
-  "showMessage": false
+  "appMessage": "MedSprint servers are updating, back online shortly!",
+  "appMessageIcon": "exclamationmark.icloud.fill",
+  "appMessageType": "alert",
+  "showMessage": true
 }
