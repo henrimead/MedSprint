@@ -6,6 +6,6 @@
   "appMessageIcon": "megaphone.fill",
   "appMessageType": "alert",
   "showMessage": true,
-  "appCheckEnabled": false,
-  "appCheckEnforce": false
+  "appCheckEnabled": true,
+  "appCheckEnforce": true
 }
