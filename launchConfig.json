@@ -2,9 +2,9 @@
   "minVersion": "1.0",
   "latestVersion": "1.5",
   "forceUpdate": true,
-  "appMessage": "Registrations for March 2026 GAMSAT are open.",
+  "appMessage": "Currently upgrading MedSprint servers, back online very shortly! Thank you.",
   "appMessageIcon": "megaphone.fill",
-  "appMessageType": "normal",
+  "appMessageType": "alert",
   "showMessage": true,
   "appCheckEnabled": false,
   "appCheckEnforce": false
