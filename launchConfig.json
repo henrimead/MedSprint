@@ -2,7 +2,7 @@
   "minVersion": "1.0",
   "latestVersion": "1.5",
   "forceUpdate": true,
-  "appMessage": "Currently upgrading MedSprint servers, back online very shortly! Thank you.",
+  "appMessage": "Currently upgrading MedSprint servers, back online very shortly! Thank you",
   "appMessageIcon": "megaphone.fill",
   "appMessageType": "alert",
   "showMessage": true,
