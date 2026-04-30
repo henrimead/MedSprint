@@ -5,7 +5,7 @@
   "appMessage": "Welcome to Version 2.0! Try out the new Study Log to track your learning. ",
   "appMessageIcon": "megaphone.fill",
   "appMessageType": "normal",
-  "showMessage": false,
+  "showMessage": true,
   "appCheckEnabled": true,
   "appCheckEnforce": true
 }
