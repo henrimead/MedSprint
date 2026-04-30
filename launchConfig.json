@@ -1,8 +1,8 @@
 {
-  "minVersion": "1.7",
-  "latestVersion": "1.7",
+  "minVersion": "2.0",
+  "latestVersion": "2.0",
   "forceUpdate": true,
-  "appMessage": "",
+  "appMessage": "Welcome to Version 2.0! Try out the new Study Log to track your learning. ",
   "appMessageIcon": "megaphone.fill",
   "appMessageType": "normal",
   "showMessage": false,
